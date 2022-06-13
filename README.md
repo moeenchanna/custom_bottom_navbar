@@ -1,16 +1,21 @@
 # custom_bottom_navbar
 
-A new Flutter project.
+Flutter Custom Bottom Navigation Bar
 
-## Getting Started
+A beautiful, clean and simple bottom navigation bar with smooth animation on click. This project is high customizable, read more bellow for more details.
 
-This project is a starting point for a Flutter application.
+You can see the source code of this lib inside the /lib folder.
 
-A few resources to get you started if this is your first Flutter project:
+Show some ❤️ and star the repo to support this project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- ![](image/screenshot.png width="100") -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# preview
+<p align="left">
+  <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss1.png">
+  <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss2.png">
+   <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss3.png">
+   <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss4.png">
+</p>
+
+
