@@ -14,7 +14,7 @@ Show some ❤️ and star the repo to support this project
 <p align="left">
   <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss1.png">
   <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss2.png">
-   <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss3.png">
+<!--    <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss3.png"> -->
    <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/custom_bottom_navbar/main/images/ss4.png">
 </p>
 
